@@ -4,7 +4,7 @@ HR System for hiring to fire
 #system requirement
 .net core 5.0
 
-#running following next commands
+#running following commands
 
 npm install -g @angular/cli
 
